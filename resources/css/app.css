@@ -1,0 +1,14 @@
+.brand-link {
+    display: flex;
+    align-items: center;
+}
+
+.brand-image {
+    max-height: 35px;
+}
+
+.brand-text {
+    margin-left: 8px;
+    font-size: 1.1rem;
+    white-space: nowrap;
+}
